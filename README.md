@@ -1,12 +1,12 @@
 # Delani Studio
-#### This is a landing page website for Delani Studio that helps people establish what they do, the nature of services, design and product development processes. The website also demonstrates some of the previous jobs from Delani Studio and some social media pages where people can get to learn about the studio more. 10th June 2019
+#### This is a landing page website for Dr.Ochilo Ayacko that helps people to learn about his academic achievements, carreer achievements and track record as a leader. The website also offers links to social media pages where people can get to interact more with Dr.Ochilo. 28th June 2019
 #### By **Chrys Chacha**
 
 ## Description
-The website helps one to learn about some of the services offered in Delani Studio, the Designs,products and the product management prrocess. The visitors to the website can also see some of the previous jobs done from the portfolio and also visit the social media pages through the social media links. Visitors can also contact the Studio through a contact form incase of any problem, concern or making an order.
+This is a landing page for Dr.Ochilo Ayacko.
 ## Setup/Installation Requirements
-* git clone (https://github.com/Chrys-Chacha/delani-studio.git)
-* cd delani-studio
+* git clone (https://github.com/Chrys-Chacha/Dr.Ochilo.git)
+* cd DR.Ochilo
 * Open index.html to see the HTML code
 * Open script.js to see the JavaScript code
 * Open styles.css to see the css code
@@ -17,13 +17,10 @@ The website helps one to learn about some of the services offered in Delani Stud
 ## Behaviour Driven Development
 |Behaviour|Input|Output|
 |:--------|:---:|-----:|
-|To see the perevious projects in portfolio|Moving the mouse to any portifolio image|Project number appears|
-|To see what we do|Single click on the what we do icons|Shows the description of what we do|
-|To hide what we do| Double click on the what we do icon|Hides the desciption of what we do.|
-|To contact Delani Studio| Type Name and email|Pop up with 'Thank you' and the inputed name shows|
+|To learn about the focus|click on the images at the focus section|It gives a description of the focus caption|
 
 ## Known Bugs
-The website opens on all devices.
+The website has no known bug, it opens on all devices.
 
 ## Technologies Used
 HTML,CSS and JavaScript, Bootstrap, jQuery 
