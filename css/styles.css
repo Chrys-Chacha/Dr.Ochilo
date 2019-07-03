@@ -64,6 +64,7 @@ body{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 34px;
     margin-top: 20px;
+    padding-top: 100px;
   }
   .second{
     text-align: center;
@@ -244,6 +245,18 @@ span{
   }
   ::placeholder{
     color:white;
+  }
+  .hans, img{
+    
+    width:1250px;
+    height: 600px;
+    margin-left: 1px;
+    margin-right: 1px;
+    margin-bottom: 50px;
+  }
+  #bill-img{
+    width:550px;
+    height: 250px;
   }
  
     
